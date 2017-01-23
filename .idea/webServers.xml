@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c231f548-8f8b-4fdb-9177-c72bf856d9b3" name="seven" url="http://dev.al-yasser.info/noor">
+        <fileTransfer host="dev.al-yasser.info" port="21" username="hiba@dev.al-yasser.info">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
